@@ -1,2 +1,2 @@
 # portfolio_of_Subinur
-Here are some projects and excercises that I have done after learning python.
+projects and practices completed while working towards a Masters of Data Scince, Big Data & Business Analytics at Universidad Complutense de Madtid.
